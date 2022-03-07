@@ -23,7 +23,7 @@ For installing the codes of scraping project you need to have:
 By running the code which is in code.py you can scrap the data.  
 ## Contributors
 
-Havva Ebrahimi Pour
+Havva Ebrahimi Pour (https://www.linkedin.com/in/havva-ebrahimi-pour-75009420b/)
 
 ## Timeline
 
